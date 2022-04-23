@@ -19,9 +19,5 @@ int main()
 
     printf("\nMuito bom! O %s %s tem %d anos!",name,sobrenome,idade);
 
-
-
-
-
     return 0;
 }
